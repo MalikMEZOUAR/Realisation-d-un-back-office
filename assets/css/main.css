@@ -3950,3 +3950,21 @@ input, select, textarea {
 			opacity: 1;
 			visibility: visible;
 		}
+
+/*Ce que j'ai écrit*/
+.form_connection{
+	display: flex;
+	flex-direction: column;
+	gap: 15px;
+}
+
+.label_conn{
+	margin: 0;
+}
+
+.legend_conn{
+	font-size: 1.5rem;
+	font-weight: 600;
+	letter-spacing: 0.25rem;
+	text-transform: uppercase;
+}
